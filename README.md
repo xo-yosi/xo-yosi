@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>Hi, I'm Eyosiyas Eyasu — a passionate learner and builder. I work in cybersecurity and also enjoy backend development with Go.  <br>Currently exploring security research, building tools, and contributing to open-source projects.<br><br>🛠️ Tools I use: Go, Bash, Linux, Git  <br>🔒 Interests: Security Researcher & Backend developer<br>
+Hi, I'm Eyosiyas Eyasu — a passionate learner and builder. I work in cybersecurity and also enjoy backend development with Go.  <br>Currently exploring security research, building tools, and contributing to open-source projects.<br><br>🛠️ Tools I use: Go, Bash, Linux, Git  <br>🔒 Interests: Security Researcher & Backend developer<br>
 
 
 ## 🌐 Socials:
@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=xo-yosi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=xo-yosi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xo-yosi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=xo-yosi&theme=aura_dark&no-frame=true&no-bg=false&margin-w=4)
