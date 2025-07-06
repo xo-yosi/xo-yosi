@@ -10,7 +10,6 @@ Hi, I'm Eyosiyas Eyasu — a passionate learner and builder. I work in cybersecu
 
 ### 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=xo-yosi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xo-yosi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=xo-yosi&theme=dark&no-frame=true&no-bg=false&margin-w=4)
