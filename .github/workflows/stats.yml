@@ -1,0 +1,35 @@
+name: Generate GitHub Stats with Private Repos
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # updates every 12 hours
+  workflow_dispatch:         # allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: xo-yosi
+          token: ${{ secrets.PAT_1 }}
+          count_private: true
+          include_all_commits: true
+          show_icons: true
+          theme: dark
+          output_file: ./github-stats.svg
+
+      - name: Generate GitHub Trophies
+        run: |
+          curl "https://github-profile-trophy.vercel.app/?username=xo-yosi&theme=dark&no-frame=true&no-bg=false&margin-w=4&count_private=true&token=${{ secrets.PAT_1 }}" -o github-trophies.svg
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add github-stats.svg github-trophies.svg
+          git commit -m "Update GitHub Stats & Trophies"
+          git push
