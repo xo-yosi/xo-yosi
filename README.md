@@ -22,6 +22,7 @@ Hi, I'm Eyosiyas Eyasu — a passionate learner and builder. I work in cybersecu
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=xo-yosi&icon=4&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=xo-yosi&label=Profile%20Views&color=12&icon=4)](https://visitcount.itsvg.in)
+[![Hits](https://hits.sh/github.com/xo-yosi.svg?style=for-the-badge&label=visits)](https://hits.sh/github.com/xo-yosi/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
