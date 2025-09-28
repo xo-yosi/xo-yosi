@@ -21,12 +21,6 @@ Hi, I'm Eyosiyas Eyasu — a passionate learner and builder. I work in cybersecu
 [![](https://visitcount.itsvg.in/api?id=xo-yosi&icon=4&color=12)](https://visitcount.itsvg.in)
 
 ## ⌛ My Coding Stats
-![wakatime](https://wakatime.com/badge/user/xo-yosi.svg)
-
-## 🛠 Languages I Code In
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xo-yosi&layout=compact)
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xo-yosi&show_icons=true&count_private=true)
+[![wakatime](https://wakatime.com/badge/user/eb7746ce-733c-4018-9e96-9548f025ff72.svg)](https://wakatime.com/@eb7746ce-733c-4018-9e96-9548f025ff72)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
