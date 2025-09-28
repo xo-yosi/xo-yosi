@@ -11,6 +11,10 @@ Hi, I'm Eyosiyas Eyasu — a passionate learner and builder. I work in cybersecu
 ### 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=xo-yosi&theme=dark&hide_border=false)<br/>
 
+
+## ⌛ My Coding Stats
+[![wakatime](https://wakatime.com/badge/user/eb7746ce-733c-4018-9e96-9548f025ff72.svg)](https://wakatime.com/@eb7746ce-733c-4018-9e96-9548f025ff72)
+
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=xo-yosi&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
@@ -19,8 +23,5 @@ Hi, I'm Eyosiyas Eyasu — a passionate learner and builder. I work in cybersecu
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xo-yosi&icon=4&color=12)](https://visitcount.itsvg.in)
-
-## ⌛ My Coding Stats
-[![wakatime](https://wakatime.com/badge/user/eb7746ce-733c-4018-9e96-9548f025ff72.svg)](https://wakatime.com/@eb7746ce-733c-4018-9e96-9548f025ff72)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
