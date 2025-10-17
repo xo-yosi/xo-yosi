@@ -11,11 +11,15 @@ Hi, I'm Eyosiyas Eyasu — a passionate learner and builder. I work in cybersecu
 
 
 ## 📊 GitHub Stats 
-![](https://nirzak-streak-stats.vercel.app/?user=xo-yosi&theme=dark&hide_border=false)<br/> 
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=xo-yosi&theme=dark&hide_border=false)<br/>
+
 ## ⌛ My Coding Stats 
 [![wakatime](https://wakatime.com/badge/user/eb7746ce-733c-4018-9e96-9548f025ff72.svg)](https://wakatime.com/@eb7746ce-733c-4018-9e96-9548f025ff72)<br/>
-## 🏆 GitHub Trophies 
-![](https://github-profile-trophy.vercel.app/?username=xo-yosi&theme=dark&no-frame=true&no-bg=false&margin-w=4)<br/>
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=xo-yosi&theme=github_dark&no-frame=false&no-bg=false&margin-w=4&count_private=true&include_all_commits=true&private=true)
+
+
 ## ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br/>
 
